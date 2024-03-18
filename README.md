@@ -6,3 +6,7 @@ This script is designed to monitor the inventory of Mercedes-Benz cars available
 
 Python 3.x installed on your system.
 Necessary Python libraries: requests, json, smtplib, time, os, ssl, email.mime.
+
+## Usage
+
+To start monitoring the Mercedes-Benz car inventory, run the script main.py. You can execute the script by running python main.py.
