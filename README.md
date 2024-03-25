@@ -17,3 +17,10 @@ Initial Inventory Check: Upon running the script, it fetches the available cars 
 Periodic Checking: The script continuously monitors the inventory, checking for updates every 5 minutes.
 Notification: If there are any changes in the inventory, it sends an email notification with the updated inventory details.
 Attachment: The email notification includes an attachment (oldCars.txt) containing the previous inventory details for comparison.
+
+
+### Notes
+
+This script is tailored to monitor the Mercedes-Benz car inventory from the specific URL provided in the code. Any changes to the website structure may require corresponding updates in the code.
+Ensure proper internet connectivity for the script to fetch data from the website.
+Run the script on a server or a system with continuous uptime for uninterrupted monitoring.
