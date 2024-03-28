@@ -19,7 +19,7 @@ Notification: If there are any changes in the inventory, it sends an email notif
 Attachment: The email notification includes an attachment (oldCars.txt) containing the previous inventory details for comparison.
 
 
-### Notes
+#### Notes
 
 This script is tailored to monitor the Mercedes-Benz car inventory from the specific URL provided in the code. Any changes to the website structure may require corresponding updates in the code.
 Ensure proper internet connectivity for the script to fetch data from the website.
