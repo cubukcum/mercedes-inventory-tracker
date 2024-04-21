@@ -10,7 +10,7 @@ from email.mime.application import MIMEApplication
 
 def getAvailableCarsFirst():
     # Define the URL and parameters
-    url = "https://shop.mercedes-benz.com/smsc-backend-os/dcp-api//v2/market-tr/products/search"
+    url = "https://shop.mercedes-benz.com/smsc-backend-os/dcp-api//v2/market-tr/products/search"  # Update if necessary
     newurl = "https://ap.api.oneweb.mercedes-benz.com/commerce/ocb/dcp-api/v2/market-tr/products/search"
 
     #url = "https://shop.mercedes-benz.com/smsc-backend-os/dcp-api//v2/market-tr/products/search?query=:price-asc:allCategories:market-tr-new-passenger-cars:model:E-SERISI:bodyType:LIMOUSINE&currentPage=0&pageSize=12&fields=FULL&lang=tr"
