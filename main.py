@@ -23,6 +23,7 @@ def getAvailableCarsFirst():
     }
 
     # Define headers
+    # Update if necessary
     headers = {
         "Accept": "application/json, text/plain, */*",
         "Origin": "https://www.mercedes-benz.com.tr",
